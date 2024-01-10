@@ -8,6 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,php,rust,git,github&perline=5)](https://skillicons.dev)
 
 - Contacts
+  https://www.linkedin.com/in/bhingareumesh7711/
   <i class="fa-brands fa-linkedin"></i>
 
 <!---
