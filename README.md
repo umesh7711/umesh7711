@@ -4,7 +4,7 @@
 
 
 My Skills
-![image](https://github.com/umesh7711/umesh7711/assets/124680801/d43f1bc0-bf3d-49c2-ad04-ebcce4c3770d)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 
