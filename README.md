@@ -7,7 +7,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,rust,git,github&perline=5)](https://skillicons.dev)
 
-
+- Contacts
+  <i class="fa-brands fa-linkedin"></i>
 
 <!---
 umesh7711/umesh7711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
