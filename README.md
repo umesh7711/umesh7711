@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning DSA with Java
 -   My Skills
     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,react,git,github&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,react,git,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,c,&perline=5)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c++,java,php,rust,git,github&perline=5)](https://skillicons.dev)
 
 
 
