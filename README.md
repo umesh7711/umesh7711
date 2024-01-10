@@ -5,7 +5,7 @@
     
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,c++&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,react,git,github&perline=5)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,react,git,github&perline=5)](https://skillicons.dev)
 
